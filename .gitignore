@@ -1,0 +1,13 @@
+# Chặn thư mục chứa dữ liệu thật
+data/
+
+# Chặn file SQL làm việc cá nhân (để bảo mật)
+FLIC_3.sql
+
+# Chặn file rác hệ thống
+__pycache__/
+*.pyc
+.DS_Store
+
+# Chặn file tạm của Excel
+~$*
